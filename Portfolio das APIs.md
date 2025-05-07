@@ -3,8 +3,8 @@
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
-> Me chamo Raul Neto, estou me formando em Banco de Dados, venho da área da Educação Física, onde cursei 2 anos e meio e devido a pandemia acabei abandonando o curso, sou ex-militar, servi durante 6 anos na Força Aérea em SJC-SP e hoje trabalho como Analista de Dados na BAYER SA à quase 1 ano e meio.
-Além das minhas apresentações ao decorrer da faculdade, sendo apresentações de trabalhos, APIs e Feiras de Soluções, também ministrei treinamentos em minha empresa, sendo eles Básico em PowerApps e Básico em Python: 
+> Me chamo Raul Neto, estou me formando em Banco de Dados. Vim da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia. Sou ex-militar, tendo servido por seis anos na Força Aérea Brasileira em São José dos Campos (SP). Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase um ano e meio.
+Além das apresentações realizadas ao longo da faculdade — como trabalhos, demonstrações de APIs e Feiras de Soluções —, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 ![image](https://github.com/user-attachments/assets/986f38d1-fec1-4963-be60-6ca59f6c293a)
 
 ## Contatos
