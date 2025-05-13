@@ -267,24 +267,69 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 **Adaptabilidade e Resolução de Problemas** Adaptei implementações conforme mudanças nos requisitos, além de lidar com imprevistos e retrabalho com foco em entregar soluções funcionais.
 
-### Em 2025-1
+### Em 2025-1 Vison 👁️
 
 ## Empresa Parceira 🤝
+Youtan, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. 
 
-## Problema ❗
+## Problema❗
+Apesar do Taiga ser uma plataforma eficaz para gestão ágil de projetos, ele possui limitações na visualização clara e centralizada de indicadores estratégicos e operacionais. A ausência de dashboards visuais e customizáveis dificulta a análise rápida do progresso, dos gargalos e da performance da equipe, prejudicando a transparência, a tomada de decisão e a comunicação com stakeholders.
 
 ## Solução Entregue 🚀
+Criar uma plataforma web que permitirá os usuários acompanharem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.
 
-[GIT](https://www.git.com)
+Repositório [GIT](https://github.com/new-ge/VISION)
 
 #### Tecnologias Utilizadas 🧰
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+**Figma:** Ferramenta de design de interfaces para criar protótipos interativos, wireframes e design de UI/UX de aplicativos e sites.
+
+**Git:** Sistema de controle de versões distribuído, utilizado para gerenciar o código-fonte do projeto.
+
+**GitHub:** Plataforma online de hospedagem de código-fonte, usando Git, que permite versionamento, controle de alterações e colaboração em projetos.
+
+**HTML:** Linguagem de marcação usada para criar a estrutura de páginas web, definindo elementos como textos, imagens e links.
+
+**JavaScript (JS):** Linguagem de programação para desenvolvimento de scripts no lado do cliente, permitindo interatividade nas páginas web.
+
+**Discord:** Plataforma de comunicação voltada para comunidades, muito utilizada por desenvolvedores e jogadores, com chat de voz e texto.
+
+**Visual Studio Code (VSCode):** Editor de código-fonte popular, com suporte para várias linguagens de programação, extensões e depuração.
+
+**TypeScript (TS):** Linguagem de programação que estende o JavaScript com tipagem estática, melhorando a segurança e a manutenção do código.
+
+**Spring:** Framework de desenvolvimento em Java, utilizado para construir aplicações empresariais robustas e escaláveis, com foco em injeção de dependência.
+
+**PostgreSQL:** Sistema de gerenciamento de banco de dados relacional, conhecido por sua robustez e conformidade com SQL padrão.
+
+**Docker:** Plataforma de contêineres que permite empacotar e distribuir aplicações de forma leve e portátil, garantindo consistência no ambiente de execução.
 
 #### Contribuições Pessoais ⚙️
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+  * Durante o meu desenvolvimento no projeto, fiquei responsavél Front-End.
+    * Desde requisições, visual, responsividade com mobile, telas e portótipo de layout, logo e cores.
+      > ![image](https://github.com/user-attachments/assets/63d5ef1b-0b4f-4832-812b-9d5d7fccfbeb)
 
 ### Hard Skills 💡
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
+**Prototipagem e UI/UX (Figma):** Criação de protótipos interativos e wireframes, com foco na usabilidade e no design visual, para garantir que as interfaces atendam aos requisitos do usuário e do projeto.
+
+**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript):** Desenvolvimento de interfaces web dinâmicas e responsivas, utilizando boas práticas de componentização e reuso de código, assegurando escalabilidade e manutenção do projeto.
+
+**Controle de Versão e Colaboração (Git, GitHub):** Gerenciamento de código-fonte com Git, utilizando branches, commits e pull requests para garantir um fluxo de trabalho ágil e colaborativo, com foco em versões e integração contínua.
+
+**Comunicação e Gestão (Discord, Jira):** Utilização do Discord para comunicação eficaz com a equipe e Jira para o gerenciamento de tarefas e organização de sprints, garantindo uma gestão ágil do projeto.
+
+**Ambiente de Desenvolvimento (Visual Studio Code, IntelliJ IDEA):** Personalização de ambientes de desenvolvimento com extensões e plugins para otimizar a produtividade, garantir a consistência do código e facilitar a depuração.
 
 ### Soft Skills 🧠
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+
+**Comunicação Efetiva:** Capacidade de expressar ideias de forma clara e garantir que todos na equipe entendam as expectativas e feedbacks.
+
+**Trabalho em Equipe:** Habilidade de colaborar de forma eficiente, respeitando as ideias dos outros e buscando soluções conjuntas.
+
+**Gestão de Tempo:** Capacidade de organizar e priorizar tarefas, cumprindo prazos sem sobrecarregar a agenda.
+
+**Adaptabilidade:** Flexibilidade para lidar com mudanças de requisitos ou prazos, mantendo a produtividade.
+
+**Resolução de Problemas:** Habilidade de identificar obstáculos e encontrar soluções criativas e eficazes.
+
+**Proatividade:** Ação antecipada para resolver problemas e garantir o fluxo contínuo do trabalho.
