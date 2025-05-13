@@ -2,8 +2,11 @@
 
 ## Introdução
 
-> Me chamo Raul Neto, estou me formando em Banco de Dados. Vim da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia. Sou ex-militar, tendo servido por seis anos na Força Aérea Brasileira em São José dos Campos (SP). Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase um ano e meio.
-Além das apresentações realizadas ao longo da faculdade — como trabalhos, demonstrações de APIs e Feiras de Soluções —, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
+> Me chamo Raul Neto, estou me formando em Banco de Dados.
+> Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
+> Sou ex-militar, tendo servido por seis anos na Força Aérea Brasileira em São José dos Campos (SP).
+> Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase um ano e meio.
+> Além das apresentações realizadas ao longo da faculdade — como trabalhos, demonstrações de APIs e Feiras de Soluções —, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 
 ![image](https://github.com/user-attachments/assets/f3531c75-5922-46bd-acb3-7960daad4ede)
 
