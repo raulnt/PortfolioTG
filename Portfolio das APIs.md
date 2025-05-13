@@ -1,6 +1,6 @@
-# Raul José Batista Neto 🙋‍♂️
+# 👋 Raul José Batista Neto 👋
 
-## Introdução 🗒️
+## Introdução 📰
 
 > Me chamo Raul Neto, estou me formando em Banco de Dados.
 > Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
@@ -25,7 +25,7 @@ Ferramentas Low Code (Power BI, VBA e Power Apps)
 
 ## Meus Projetos 🖥️
 
-### Em 2023-2 - Sistema de Avaliação 360° 👁️‍🗨️
+### Em 2023-1 - Sistema de Avaliação 360° 👁️‍🗨️
 
 ## Empresa Parceira 🤝
 
@@ -111,36 +111,180 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 **Adaptabilidade** – Durante as sprints, precisei reestruturar rapidamente o código de cálculo das avaliações após mudanças nos critérios definidos pelo cliente interno. Adaptei a lógica para atender aos novos requisitos, preservando a estabilidade do sistema.
 
 
-### Em 2024-1 TGSync 🗃️
-Mesmo formato
+### Em 2023-2 TGSync 🗃️
 
-[GIT](https://www.git.com)
+## Empresa Parceira 🤝
 
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+O projeto foi desenvolvido em colaboração com a Dom Rock, empresa especializada em uma arquitetura de processamento de dados em pipeline. Essa estrutura permite orquestrar dados e aplicar algoritmos de inteligência artificial ou modelos matemáticos conforme as necessidades de negócio dos clientes. A plataforma é amplamente utilizada em diversos setores para tratar grandes volumes de dados, gerando insights automatizados que facilitam a tomada de decisões.
 
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+## Problema ❗
 
-#### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+O principal obstáculo era o processo manual de configuração das fontes de dados — uma etapa essencial para o funcionamento da plataforma. Esse processo demandava tempo considerável e a atuação de profissionais altamente especializados, o que comprometia a agilidade nas implantações e aumentava a dependência de conhecimento técnico para garantir a correta preparação dos dados.
 
-#### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+## Solução Entregue 🚀
+
+Para superar esse desafio, a equipe desenvolveu uma interface intuitiva que automatiza a configuração das fontes de dados. A solução incluiu:
+
+* Interfaces para cadastro de clientes, soluções e usuários;
+
+* Upload de arquivos CSV ou Excel com visualização da estrutura de dados;
+
+* Dashboard administrativo com visões quantitativas sobre os dados configurados;
+
+* Funcionalidades para mapeamento de campos-chave e aplicação de regras de negócio;
+
+* Sistema de autenticação e auditoria para garantir rastreabilidade.
+
+Repositório [GIT](https://github.com/TechHorizonBR/API_2_Sem)
+
+#### Tecnologias Utilizadas 🧰
+**Java 17** Versão estável da linguagem Java com suporte de longo prazo (LTS), trazendo melhorias de desempenho, novos recursos e maior eficiência no desenvolvimento de aplicações robustas.
+
+**Spring Boot** Framework que agiliza o desenvolvimento de aplicações Java, fornecendo configurações automáticas e um ecossistema completo para criação de APIs e microsserviços.
+
+**Spring Security** Módulo do Spring voltado para segurança, oferecendo recursos integrados de autenticação, autorização e proteção contra ameaças comuns em aplicações web.
+
+**Hibernate** Framework ORM (Object-Relational Mapping) que facilita a comunicação entre aplicações Java e bancos de dados relacionais, automatizando a persistência de dados.
+
+**HTML (HyperText Markup Language)** Linguagem de marcação responsável pela estruturação de páginas web, definindo o conteúdo e a hierarquia dos elementos visuais.
+
+**CSS (Cascading Style Sheets)** Linguagem de estilo que complementa o HTML, permitindo o controle visual das páginas, como cores, fontes, espaçamentos e layout responsivo.
+
+**JavaScript** Linguagem de programação essencial para a criação de interatividade em páginas web, possibilitando ações dinâmicas e atualizações em tempo real.
+
+**MySQL** Sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido por sua performance, confiabilidade e estrutura baseada em SQL.
+
+**Discord** Plataforma de comunicação instantânea com suporte a texto, voz e vídeo, ideal para colaboração em equipe e criação de comunidades organizadas por servidores.
+
+**Jira** Ferramenta de gerenciamento de projetos e tarefas, muito utilizada em times ágeis. Suporta metodologias como Scrum e Kanban, com funcionalidades para planejamento, rastreamento e relatórios.
+
+**BRModelo** Aplicativo gráfico utilizado na modelagem de bancos de dados, permitindo a criação de diagramas entidade-relacionamento (ER) de forma visual e intuitiva.
+
+#### Contribuições Pessoais ⚙️
+* Durante o projeto desenvolvi como front-end. Fui responsável pela padronização de estilos no front-end, estruturação das telas e responsividade.
+  * Desenvolvimento do Front-End
+    > Adotando um padrão visual consistente para as interfaces do sistema. No entanto, enfrentei alguns desafios devido à ausência de um framework de estilização, o que exigiu a replicação de diversos trechos de código em múltiplas telas, gerando retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, o que reduziu significativamente a duplicação de código e tornou o desenvolvimento mais eficiente e organizado.
+  ![image](https://github.com/user-attachments/assets/eb8b1d97-7594-42e8-8f8d-4030911bb6a4)
+
+### Hard Skills 💡
+**HTML5, CSS3, JavaScript** – Desenvolvi o front-end com interfaces responsivas e dinâmicas, atuando com autonomia na implementação.
+
+**Figma** – Utilizei para prototipagem de interfaces e colaboração no design da solução, com domínio das funcionalidades da ferramenta.
+
+**Java (Spring Boot)** – Desenvolvi aplicações back-end, configurando endpoints e integrações de forma autônoma.
+
+**MySQL** – Modelei e gerenciei dados relacionais, com pleno domínio na criação de queries e ajustes no banco.
+
+**Postman** – Testei e validei APIs, com conhecimento para criação de coleções de testes automatizados.
+
+**Git/GitHub** – Realizei versionamento de código e trabalho colaborativo, com domínio no uso de branches, pull requests e resolução de conflitos.
+
+**IntelliJ IDEA** – Ambiente principal de desenvolvimento, com proficiência na personalização do IDE e uso de plugins.
+
+**Jira** – Organizei e acompanhei tarefas conforme a metodologia Scrum, promovendo eficiência no gerenciamento do projeto.
+
+### Soft Skills 🧠
+**Comunicação** – Fundamental para o alinhamento de expectativas da equipe durante reuniões de planejamento e revisões de sprint, contribuindo para a clareza nos objetivos do projeto.
+
+**Trabalho em equipe** – Atuei de forma colaborativa no desenvolvimento do front-end, especialmente na criação dos protótipos visuais, contando com o apoio dos colegas e promovendo um ambiente de troca constante.
+
+**Organização** – Gerenciei meu tempo de forma eficiente para conciliar os prazos das sprints com as demandas acadêmicas, especialmente em períodos de provas, garantindo a entrega conforme o planejado.
+
+**Adaptabilidade** – Adaptei a implementação das funcionalidades com agilidade diante de feedbacks dos clientes e mudanças nos requisitos, mantendo a qualidade e o ritmo do desenvolvimento.
+
+### Em 2024-2 LocalTracker 📍
+
+## Empresa Parceira 🤝
+
+O projeto foi desenvolvido em parceria com a ITO1, empresa especializada em soluções baseadas em dados. A iniciativa envolveu o uso de dispositivos IoT para a coleta de informações em diversos ambientes, promovendo inovação nas soluções propostas.
+
+## Problema ❗
+
+Considerando o grande volume de dados gerados por dispositivos IoT, especialmente para fins de geolocalização de pessoas e objetos, tornou-se essencial garantir um gerenciamento eficiente dessas informações.
+
+## Solução Entregue 🚀
+
+Uma solução capaz de registrar e consultar dados de geolocalização de dispositivos, ativos e outros objetos em um banco de dados relacional que fosse escalável e com alta disponibilidade, atendendo às demandas de performance e confiabilidade do sistema.
+
+Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
+
+#### Tecnologias Utilizadas 🧰
+
+**Figma** – Ferramenta de design colaborativo usada para criar protótipos, interfaces e wireframes de sistemas.
+
+**Java** – Linguagem de programação orientada a objetos amplamente usada para aplicações web, desktop e mobile.
+
+**GitHub** – Plataforma de hospedagem de código que usa Git para controle de versão e colaboração entre desenvolvedores.
+
+**Git** – Sistema de controle de versão distribuído usado para rastrear alterações em código-fonte durante o desenvolvimento de software.
+
+**Postman** – Ferramenta usada para testar APIs, permitindo fazer requisições HTTP e organizar coleções de testes.
+
+**HTML** – Linguagem de marcação padrão para estruturar páginas web e seus conteúdos.
+
+**JavaScript** – Linguagem de programação utilizada para tornar páginas web interativas e dinâmicas.
+
+**Discord** – Plataforma de comunicação por texto, voz e vídeo, muito utilizada para colaboração em equipe e comunidades de desenvolvedores.
+
+**Vue.js** – Framework JavaScript progressivo para construção de interfaces de usuário e SPAs (Single Page Applications).
+
+**VS Code** (Visual Studio Code) – Editor de código-fonte leve e poderoso, com suporte a várias linguagens e extensões.
+
+**CSS (Editor de Código)** – Representa editores de código genéricos ou o uso direto de HTML/CSS para desenvolvimento web.
+
+**TypeScript** – Superset do JavaScript que adiciona tipagem estática, melhorando a escalabilidade e manutenção de grandes aplicações.
+
+**Spring** – Framework para desenvolvimento de aplicações Java, conhecido por facilitar a criação de APIs e sistemas robustos.
+
+**Oracle Cloud** – Plataforma de serviços em nuvem da Oracle, utilizada para hospedagem, bancos de dados, IA e muito mais.
+
+#### Contribuições Pessoais ⚙️
+
+* Durante o projeto desenvolvi como Front-End e Product Owner. Fui responsável pela padronização de estilos no front-end, estruturação das telas, responsividade e desempenhei o papel de PO, onde eu fazia o contato com o cliente e repassava as necessidades do mesmo ao meu grupo.
+  * Além do contato com o cliente, durante o desenvolvimento como Dev, fiquei responsavél pelo visual do mapa, Layout, Cores, Tags, NaveBar...
+    >![image](https://github.com/user-attachments/assets/939fd9b8-59f9-496b-9065-4c9ca1bb4166)
+
+### Hard Skills 💡
+**Prototipagem e UI/UX (Figma)** Criação e validação de protótipos de interfaces, com foco na experiência do usuário e na tradução de requisitos funcionais em soluções visuais eficientes.
+
+**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript)** Construção de interfaces dinâmicas e responsivas com foco em escalabilidade, sem uso de frameworks visuais, aplicando boas práticas de componentização e reaproveitamento de código.
+
+**Controle de Versão e Colaboração (Git, GitHub)** Versionamento de código com uso eficiente de branches, pull requests e resolução de conflitos, garantindo um fluxo de trabalho limpo e colaborativo com a equipe.
+
+**Comunicação e Gestão (Discord, Jira)** Uso de canais como Discord para comunicação em tempo real com a equipe e Jira para organização de tarefas e acompanhamento ágil via Scrum.
+
+**Ambiente de Desenvolvimento (Visual Studio Code, IntelliJ IDEA)** Customização de ambientes de desenvolvimento com extensões, plugins e recursos avançados para aumentar a produtividade e padronizar o código.
+
+### Soft Skills 🧠
+
+**Liderança e Visão de Produto** Como PO, conduzi o levantamento de requisitos, priorizei funcionalidades com foco na entrega de valor e mantive o alinhamento entre a equipe técnica e os objetivos do cliente.
+
+**Comunicação Clara e Objetiva** Participei ativamente de reuniões de planejamento e revisão de sprint, promovendo o alinhamento entre todos os envolvidos e garantindo que as expectativas fossem bem definidas.
+
+**Trabalho em Equipe** Colaborei com colegas no desenvolvimento front-end e na prototipação visual, solicitando ajuda quando necessário e contribuindo para decisões técnicas em grupo.
+
+**Organização e Gestão de Tempo** Conciliei prazos de entrega do projeto com as demandas acadêmicas, utilizando organização e planejamento para cumprir com eficiência os cronogramas estabelecidos.
+
+**Adaptabilidade e Resolução de Problemas** Adaptei implementações conforme mudanças nos requisitos, além de lidar com imprevistos e retrabalho com foco em entregar soluções funcionais.
 
 ### Em 2025-1
-Mesmo formato
+
+## Empresa Parceira 🤝
+
+## Problema ❗
+
+## Solução Entregue 🚀
 
 [GIT](https://www.git.com)
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas 🧰
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
 
-#### Contribuições Pessoais
+#### Contribuições Pessoais ⚙️
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
-#### Hard Skills
+### Hard Skills 💡
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
 
-#### Soft Skills
+### Soft Skills 🧠
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
