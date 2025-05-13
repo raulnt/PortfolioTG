@@ -1,6 +1,6 @@
-# Raul José Batista Neto
+# Raul José Batista Neto 🙋‍♂️
 
-## Introdução
+## Introdução 🗒️
 
 > Me chamo Raul Neto, estou me formando em Banco de Dados.
 > Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
@@ -12,18 +12,18 @@
 
 ![image](https://github.com/user-attachments/assets/986f38d1-fec1-4963-be60-6ca59f6c293a)
 
-## Contatos
+## Contatos 📞
 * [GIT](https://github.com/raulnt)
 * [LinkedIn](www.linkedin.com/in/raul-neto-md)
 
-## Meus Principais Conhecimentos
+## Meus Principais Conhecimentos 💻
 Python
 Node.js
 SonarQube
 Ferramentas Low Code (Power BI, VBA e Power Apps) 
 
 
-## Meus Projetos
+## Meus Projetos 🖥️
 
 ### Em 2023-2 - Sistema de Avaliação 360° 👁️‍🗨️
 
