@@ -192,7 +192,94 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_2_Sem)
 
 **Adaptabilidade** – Adaptei a implementação das funcionalidades com agilidade diante de feedbacks dos clientes e mudanças nos requisitos, mantendo a qualidade e o ritmo do desenvolvimento.
 
-### Em 2024-2 LocalTracker 📍
+### Em 2024-1 LocalTracker 📍
+
+## Empresa Parceira 🤝
+
+O projeto foi desenvolvido em parceria com a Dom Rock, empresa que utiliza uma arquitetura de processamento de dados em pipeline para orquestrar informações e aplicar algoritmos de inteligência artificial ou modelos matemáticos, conforme as necessidades de negócio de seus clientes. Essa plataforma é amplamente utilizada em diversas indústrias, permitindo o tratamento de grandes volumes de dados, a geração de insights automatizados e a otimização da tomada de decisões.
+
+## Problema ❗
+
+O processo de configuração das fontes de dados é manual, demandando tempo significativo e suporte de especialistas. Essa necessidade de profissionais qualificados limita a agilidade na implantação da solução e aumenta a probabilidade de falhas na preparação dos dados, afetando a eficiência e a precisão das etapas posteriores do pipeline.
+
+## Solução Entregue 🚀
+
+Para mitigar essas limitações, foi desenvolvida uma interface intuitiva que automatiza a configuração das fontes de dados. A solução incluiu módulos para cadastro de clientes, soluções e usuários, além de uma interface para upload de arquivos CSV ou Excel com visualização da estrutura dos dados.
+Foi criado também um dashboard administrativo com indicadores quantitativos das configurações realizadas. Adicionalmente, a ferramenta passou a contar com recursos de mapeamento de campos-chave, definição de regras de negócio, autenticação e auditoria, assegurando rastreabilidade. Essa automação resultou em maior agilidade nas implantações e menor dependência de profissionais técnicos.
+
+Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
+
+#### Tecnologias Utilizadas 🧰
+
+**Java** – Linguagem de programação orientada a objetos amplamente usada para aplicações web, desktop e mobile.
+
+**Spring** – Framework para desenvolvimento de aplicações Java, conhecido por facilitar a criação de APIs e sistemas robustos.
+
+**MySQL** – Sistema de gerenciamento de banco de dados relacional usado para armazenar, consultar e gerenciar dados de aplicações.
+
+**IntelliJ IDEA** – IDE (Ambiente de Desenvolvimento Integrado) usada para desenvolvimento de software, principalmente em Java, com recursos de depuração, refatoração e integração com ferramentas de versionamento.
+
+**Git** – Sistema de controle de versão distribuído usado para rastrear alterações em código-fonte durante o desenvolvimento de software.
+
+**GitHub** – Plataforma de hospedagem de código que usa Git para controle de versão e colaboração entre desenvolvedores.
+
+**Figma** – Ferramenta de design colaborativo usada para criar protótipos, interfaces e wireframes de sistemas.
+
+**Postman** – Ferramenta usada para testar APIs, permitindo fazer requisições HTTP e organizar coleções de testes.
+
+**BRModelo** – Ferramenta usada para modelagem de bancos de dados, permitindo criar diagramas ER (Entidade-Relacionamento) de forma visual e intuitiva.
+
+**Jira** – Plataforma de gerenciamento de projetos e tarefas, utilizada para acompanhamento de sprints, issues e planejamento ágil.
+
+**Discord** – Plataforma de comunicação por texto, voz e vídeo, muito utilizada para colaboração em equipe e comunidades de desenvolvedores.
+
+**HTML5** – Linguagem de marcação padrão para estruturar páginas web e seus conteúdos.
+
+**CSS3** – Linguagem de estilo usada para definir o layout, cores, fontes e aparência visual de páginas web.
+
+**JavaScript** – Linguagem de programação utilizada para tornar páginas web interativas e dinâmicas.
+
+#### Contribuições Pessoais ⚙️
+* Durante o projeto desenvolvi como front-end e participei da modelagem do banco.
+  * Desenvolvimento do Front-End
+    > Implementei um padrão visual consistente para as interfaces do sistema. Inicialmente, enfrentei desafios devido à ausência de um framework de estilização, o que levou à repetição de trechos de código em diversas telas e gerou retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, reduzindo significativamente a duplicação de código e tornando o desenvolvimento mais eficiente e organizado.
+
+    ![Front-End](https://github.com/user-attachments/assets/d49f6fa1-8c4b-4d31-a482-ce78e13643c9)
+
+  * Desenvolvimento do Banco de Dados
+    > Colaborei na criação e modelagem de diagramas de banco de dados, incluindo a elaboração de modelos entidade-relacionamento, garantindo que a estrutura dos dados fosse organizada, consistente e de fácil entendimento para a equipe de desenvolvimento.
+
+    ![Banco de Dados](https://github.com/user-attachments/assets/d354b64c-3f53-414f-bc2b-64992f9a2cef)
+
+### Hard Skills 💡
+
+**HTML5, CSS3 e CSS modularizado** – Desenvolvi interfaces responsivas e reutilizáveis, aplicando refatorações e centralização de estilos para otimizar o front-end.
+
+**JavaScript, Vue.js 3 + TypeScript** – Criei componentes reutilizáveis e views completas, consumindo APIs com axios e implementando funcionalidades dinâmicas.
+
+**Chart.js** – Renderizei gráficos interativos para dashboards, organizando visualmente os dados do sistema.
+
+**Java (Spring Boot, JPA/Hibernate)** – Desenvolvi aplicações back-end, configurando endpoints, integrando o front-end e implementando CRUD completo com Controllers, Services e Repositories.
+
+**SQL / Modelagem de Banco de Dados** – Modelei bancos de dados relacionais, criei diagramas entidade-relacionamento (ER) e manipulei dados de forma eficiente.
+
+**Git / GitHub** – Realizei versionamento de código e trabalho colaborativo, com domínio em branches, pull requests, merges e resolução de conflitos.
+
+**Figma** – Prototipei interfaces e colaborei no design da solução, utilizando recursos avançados da ferramenta.
+
+**Excel/CSV** – Manipulei dados em sistemas, realizando upload, organização e análise de arquivos estruturados.
+
+### Soft Skills 🧠
+
+**Comunicação**– Essencial para o alinhamento de expectativas da equipe em reuniões de planejamento e revisões de sprint, assegurando clareza nos objetivos e coerência nas entregas do projeto.
+
+**Trabalho em equipe** – Colaborei ativamente no desenvolvimento do front-end e na criação de protótipos visuais, atuando em conjunto com os colegas e fortalecendo um ambiente de aprendizado e troca constante.
+
+**Organização** – Gerenciei meu tempo de forma estratégica para equilibrar os prazos das sprints com as demandas acadêmicas, garantindo entregas consistentes mesmo em períodos de maior exigência.
+
+**Adaptabilidade** – Ajustei implementações de forma ágil a partir de feedbacks e mudanças de requisitos, mantendo a qualidade, a coerência técnica e o ritmo do desenvolvimento.
+
+### Em 2024-2 NextSchema 📍
 
 ## Empresa Parceira 🤝
 
