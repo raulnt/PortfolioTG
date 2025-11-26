@@ -460,9 +460,17 @@ A solução consiste em uma plataforma inteligente de gestão de suporte, desenv
 
 #### Contribuições Pessoais ⚙️
 
-No projeto, atuei como desenvolvedor e contribuí diretamente em diversas etapas do processo. Participei da criação dos protótipos de interface, definindo cores, componentes e a identidade visual do sistema. No backend, contribuí com a implementação dos endpoints e a estruturação dos routers, garantindo comunicação eficiente entre as camadas da aplicação.
+No projeto, atuei como desenvolvedor e contribuí diretamente em diversas etapas do processo. 
+> Participei da criação dos protótipos de interface, definindo cores, componentes e a identidade visual do sistema.
+  <img width="1130" height="582" alt="image" src="https://github.com/user-attachments/assets/02a5bfe6-b7ba-4156-99d0-9a1cad1f2446" />
 
-Minha principal atuação foi no frontend, onde fui responsável por padronizar elementos em HTML e CSS, aplicando o framework Naive UI de forma responsiva para garantir uma experiência visual consistente. Além disso, implementei a estrutura em Vue e JavaScript, adicionando interatividade, dinamismo e comportamento aos componentes da interface. Essas contribuições foram fundamentais para tornar a aplicação mais funcional, intuitiva e agradável ao usuário.
+> No backend, contribuí com a implementação dos endpoints e a estruturação dos routers, garantindo comunicação eficiente entre as camadas da aplicação.
+  <img width="1306" height="686" alt="image" src="https://github.com/user-attachments/assets/c14d2a94-4508-4a88-a5aa-0b2faa739613" />
+
+> Minha principal atuação foi no frontend, onde fui responsável por padronizar elementos em HTML e CSS, aplicando o framework Naive UI de forma responsiva para garantir uma experiência visual consistente. Além disso, implementei a estrutura em Vue e JavaScript, adicionando interatividade, dinamismo e comportamento aos componentes da interface. Essas contribuições foram fundamentais para tornar a aplicação mais funcional, intuitiva e agradável ao usuário.
+  <img width="1900" height="970" alt="image" src="https://github.com/user-attachments/assets/2c8f4834-f163-446e-a3d1-72d479aa6f73" />
+
+  <img width="1893" height="1138" alt="image" src="https://github.com/user-attachments/assets/7d272e00-7fad-4ea2-8c42-7cc75454a21e" />
 
 ### Hard Skills 💡
 
