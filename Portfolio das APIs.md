@@ -5,7 +5,7 @@
 > Me chamo Raul Neto, estou me formando em Banco de Dados.
 > Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
 > Sou ex-militar, tendo servido por seis anos na Força Aérea Brasileira em São José dos Campos (SP).
-> Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase um ano e meio.
+> Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
 > Além das apresentações realizadas ao longo da faculdade — como trabalhos, demonstrações de APIs e Feiras de Soluções —, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 
 ![image](https://github.com/user-attachments/assets/f3531c75-5922-46bd-acb3-7960daad4ede)
@@ -354,7 +354,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 **Adaptabilidade e Resolução de Problemas** Adaptei implementações conforme mudanças nos requisitos, além de lidar com imprevistos e retrabalho com foco em entregar soluções funcionais.
 
-### Em 2025-1 Vison 👁️
+### Em 2025-1 Vision 👁️
 
 ## Empresa Parceira 🤝
 Youtan, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. 
@@ -420,3 +420,43 @@ Repositório [GIT](https://github.com/new-ge/VISION)
 **Resolução de Problemas:** Habilidade de identificar obstáculos e encontrar soluções criativas e eficazes.
 
 **Proatividade:** Ação antecipada para resolver problemas e garantir o fluxo contínuo do trabalho.
+
+### Em 2025-2 LuminIA 🔺
+
+## Empresa Parceira 🤝
+
+O projeto foi desenvolvido em colaboração com a empresa Pro4Tech, especializada em tecnologia e transformação digital. A Pro4Tech atua no desenvolvimento de sistemas, automação de processos (RPA) e em soluções inovadoras voltadas à otimização das operações empresariais. Essa parceria proporcionou suporte técnico e alinhamento estratégico essenciais para o avanço do projeto.
+
+## Problema❗
+
+Atualmente, os usuários utilizam um sistema de chamados para solicitar suporte e acompanhar atendimentos. No entanto, alguns aspectos do processo ainda apresentam desafios. A consulta a chamados antigos nem sempre é intuitiva, o que dificulta o acesso rápido ao histórico. Além disso, há limitações na geração de insights gerenciais e operacionais, reduzindo a visibilidade sobre padrões e oportunidades de melhoria. Certos fluxos também poderiam ser mais eficientes, otimizando o tempo das equipes. Por fim, alguns pontos ainda precisam ser adequados às diretrizes da LGPD para garantir maior segurança e conformidade no tratamento dos dados.
+
+## Solução Entregue 🚀
+
+A solução consiste em uma plataforma inteligente de gestão de suporte, desenvolvida para otimizar as operações de atendimento ao cliente. Ela integra busca avançada de chamados, geração automática de insights estratégicos, análise de tendências com apoio de IA e robustos mecanismos de anonimização para garantir total conformidade com a LGPD. Com o tempo, o histórico de atendimentos se transforma em uma fonte valiosa de inteligência corporativa, promovendo melhoria contínua, maior eficiência e resultados de negócio mais assertivos.
+
+#### Tecnologias Utilizadas 🧰
+
+**Python** - Linguagem de programação interpretada e de alto nível, utilizada pela sua simplicidade, vasta comunidade e grande ecossistema de bibliotecas. Foi essencial no desenvolvimento das funcionalidades principais e na integração com serviços de análise e automação.
+
+**Vue.js** - Framework JavaScript progressivo voltado para a construção de interfaces web reativas. Sua modularidade, leveza e curva de aprendizado reduzida facilitaram a criação de uma interface rápida, moderna e intuitiva.
+
+**MongoDB** - Banco de dados NoSQL orientado a documentos, ideal para aplicações que exigem alta flexibilidade na estrutura dos dados. Oferece excelente desempenho em consultas, escalabilidade horizontal e facilidade na manipulação de grandes volumes de informações.
+
+**GitHub** - Plataforma de hospedagem de código baseada em Git, utilizada para versionamento, controle colaborativo e organização das etapas do desenvolvimento. Permitiu integração entre membros da equipe e rastreamento eficiente das modificações.
+
+**Figma** - Ferramenta de design colaborativo usada para criar protótipos, telas e fluxos de interface. Sua capacidade de edição em tempo real e recursos de UX/UI ajudaram a definir uma experiência visual consistente e moderna.
+
+**Pandas** - Biblioteca Python especializada em manipulação, limpeza e análise de dados. Foi utilizada para estruturar tabelas, processar informações e preparar conjuntos de dados para análises e geração de insights.
+
+**FastAPI** - Framework Python moderno e de alto desempenho para criação de APIs REST. Ele oferece validação automática, documentação integrada e otimização baseada em assincronismo, tornando o backend rápido, seguro e escalável.
+
+**Prophet** - Biblioteca de previsão de séries temporais desenvolvida pelo Facebook. Facilitou a geração de previsões confiáveis, lidando bem com sazonalidade e tendências, com mínima preparação de dados.
+
+**Flair** - Biblioteca de processamento de linguagem natural (NLP) focada em análises de texto. É utilizada para tarefas como classificação, detecção de sentimentos e modelagem de entidades, trazendo precisão com modelos pré-treinados e fáceis de integrar.
+
+#### Contribuições Pessoais ⚙️
+
+### Hard Skills 💡
+
+### Soft Skills 🧠
