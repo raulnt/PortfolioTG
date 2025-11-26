@@ -2,11 +2,11 @@
 
 ## Introdução 📰
 
-> Me chamo Raul Neto, estou me formando em Banco de Dados.
-> Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
-> Sou ex-militar, tendo servido por seis anos na Força Aérea Brasileira em São José dos Campos (SP).
-> Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
-> Além das apresentações realizadas ao longo da faculdade — como trabalhos, demonstrações de APIs e Feiras de Soluções —, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
+- Me chamo Raul Neto e estou me formando em Banco de Dados.
+- Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
+- Sou ex-militar e servi por seis anos na Força Aérea Brasileira (CTA-SJC).
+- Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
+- Além das apresentações realizadas ao longo da faculdade como trabalhos, demonstrações de APIs e Feiras de Soluções, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 
 ![image](https://github.com/user-attachments/assets/f3531c75-5922-46bd-acb3-7960daad4ede)
 
@@ -17,11 +17,14 @@
 * [LinkedIn](www.linkedin.com/in/raul-neto-md)
 
 ## Meus Principais Conhecimentos 💻
-Python
-Node.js
-SonarQube
-Ferramentas Low Code (Power BI, VBA e Power Apps) 
-
+* Python
+* Java(Spring Boot)
+* JavaScript
+* HTML5 & CSS3
+* Vue.js 3
+* SQL
+* Modelagem de Dados
+* Ferramentas Low Code (Power BI, VBA e Power Apps) 
 
 ## Meus Projetos 🖥️
 
@@ -80,7 +83,7 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 #### Contribuições Pessoais ⚙️
 * Durante o projeto, atuei como membro do time de desenvolvimento, com foco na interface do usuário e nas funcionalidades relacionadas à avaliação 360°.
   * Interface de Usuário
-    > Com esse primeiro contato com desenvolvimento de aplicações desktop, fui auxiliar na criação de telas intuitivas e focadas na experiência do usuário, utilizando a biblioteca CustomTkinter, em Python. Começamos com os protótipos usando a biblioteca padrão Tkinter, mas após algumas pesquisas, optamos por uma alternativa mais moderna e personalizável. Embora o CustomTkinter ofereça uma interface mais elegante e seja de fácil utilização, enfrentei desafios relacionados à falta de responsividade, uma vez que os elementos da interface são definidos em pixels, o que limitou a adaptação para diferentes resoluções de tela.
+    > Com esse primeiro contato com desenvolvimento de aplicações desktop, atuei na criação de telas intuitivas e focadas na experiência do usuário, utilizando a biblioteca CustomTkinter, em Python. Começamos com os protótipos usando a biblioteca padrão Tkinter, após pesquisas mais aprofundadas, optamos por uma alternativa mais moderna e personalizável. Embora o CustomTkinter ofereça uma interface mais elegante e seja de fácil utilização, enfrentei desafios relacionados à falta de responsividade, uma vez que os elementos da interface são definidos em pixels, o que limitou a adaptação para diferentes resoluções de tela.
     ![image](https://github.com/user-attachments/assets/3a736311-7d8c-428f-a5b5-1ab50439ff8c)
 
   * Desenvolvimento dos painéis de gerenciamento de usuário
@@ -161,7 +164,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_2_Sem)
 **BRModelo** Aplicativo gráfico utilizado na modelagem de bancos de dados, permitindo a criação de diagramas entidade-relacionamento (ER) de forma visual e intuitiva.
 
 #### Contribuições Pessoais ⚙️
-* Durante o projeto desenvolvi como front-end. Fui responsável pela padronização de estilos no front-end, estruturação das telas e responsividade.
+* Durante o projeto atuei como desenvolvedor front-end, sendo responsável pela padronização de estilos no front-end, estruturação das telas e responsividade.
   * Desenvolvimento do Front-End
     > Adotando um padrão visual consistente para as interfaces do sistema. No entanto, enfrentei alguns desafios devido à ausência de um framework de estilização, o que exigiu a replicação de diversos trechos de código em múltiplas telas, gerando retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, o que reduziu significativamente a duplicação de código e tornou o desenvolvimento mais eficiente e organizado.
   ![image](https://github.com/user-attachments/assets/eb8b1d97-7594-42e8-8f8d-4030911bb6a4)
@@ -240,9 +243,9 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
 **JavaScript** – Linguagem de programação utilizada para tornar páginas web interativas e dinâmicas.
 
 #### Contribuições Pessoais ⚙️
-* Durante o projeto desenvolvi como front-end e participei da modelagem do banco.
+* Durante o projeto atuei como front-end e participei da modelagem do banco.
   * Desenvolvimento do Front-End
-    > Implementei um padrão visual consistente para as interfaces do sistema. Inicialmente, enfrentei desafios devido à ausência de um framework de estilização, o que levou à repetição de trechos de código em diversas telas e gerou retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, reduzindo significativamente a duplicação de código e tornando o desenvolvimento mais eficiente e organizado.
+    > Implementei um padrão visual consistente para as interfaces do sistema. Enfrentei desafios devido à ausência de um framework de estilização, o que levou à repetição de trechos de código em diversas telas e gerou retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, reduzindo significativamente a duplicação de código e tornando o desenvolvimento mais eficiente e organizado.
 
     ![Front-End](https://github.com/user-attachments/assets/d49f6fa1-8c4b-4d31-a482-ce78e13643c9)
 
@@ -327,7 +330,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 #### Contribuições Pessoais ⚙️
 
-* Durante o projeto desenvolvi como Front-End e Product Owner. Fui responsável pela padronização de estilos no front-end, estruturação das telas, responsividade e desempenhei o papel de PO, onde eu fazia o contato com o cliente e repassava as necessidades do mesmo ao meu grupo.
+* Durante o projeto atuei como Front-End e Product Owner. Fui responsável pela padronização de estilos no front-end, estruturação das telas, responsividade e desempenhei o papel de PO, onde eu fazia o contato com o cliente e repassava as necessidades do mesmo ao meu grupo.
   * Além do contato com o cliente, durante o desenvolvimento como Dev, fiquei responsavél pelo visual do mapa, Layout, Cores, Tags, NaveBar...
     >![image](https://github.com/user-attachments/assets/939fd9b8-59f9-496b-9065-4c9ca1bb4166)
 
@@ -457,6 +460,32 @@ A solução consiste em uma plataforma inteligente de gestão de suporte, desenv
 
 #### Contribuições Pessoais ⚙️
 
+No projeto, atuei como desenvolvedor e contribuí diretamente em diversas etapas do processo. Participei da criação dos protótipos de interface, definindo cores, componentes e a identidade visual do sistema. No backend, contribuí com a implementação dos endpoints e a estruturação dos routers, garantindo comunicação eficiente entre as camadas da aplicação.
+
+Minha principal atuação foi no frontend, onde fui responsável por padronizar elementos em HTML e CSS, aplicando o framework Naive UI de forma responsiva para garantir uma experiência visual consistente. Além disso, implementei a estrutura em Vue e JavaScript, adicionando interatividade, dinamismo e comportamento aos componentes da interface. Essas contribuições foram fundamentais para tornar a aplicação mais funcional, intuitiva e agradável ao usuário.
+
 ### Hard Skills 💡
 
+**Prototipagem (Figma):** Criação de protótipos interativos e wireframes, com foco na usabilidade e no design visual, para garantir que as interfaces atendam aos requisitos do usuário e do projeto.
+
+**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js,):** Desenvolvimento de interfaces web dinâmicas e responsivas, utilizando boas práticas de componentização e reuso de código, assegurando escalabilidade e manutenção do projeto.
+
+**Controle de Versão e Colaboração (Git, GitHub):** Gerenciamento de código-fonte com Git, utilizando branches, commits e pull requests para garantir um fluxo de trabalho ágil e colaborativo, com foco em versões e integração contínua.
+
+**Comunicação e Gestão (Discord, Jira):** Utilização do Discord para comunicação eficaz com a equipe e Jira para o gerenciamento de tarefas e organização de sprints, garantindo uma gestão ágil do projeto.
+
+**Ambiente de Desenvolvimento (Visual Studio Code):** Personalização de ambientes de desenvolvimento com extensões e plugins para otimizar a produtividade, garantir a consistência do código e facilitar a depuração.
+
 ### Soft Skills 🧠
+
+**Comunicação Efetiva:** Capacidade de expressar ideias de forma clara e garantir que todos na equipe entendam as expectativas e feedbacks.
+
+**Trabalho em Equipe:** Habilidade de colaborar de forma eficiente, respeitando as ideias dos outros e buscando soluções conjuntas.
+
+**Gestão de Tempo:** Capacidade de organizar e priorizar tarefas, cumprindo prazos sem sobrecarregar a agenda.
+
+**Adaptabilidade:** Flexibilidade para lidar com mudanças de requisitos ou prazos, mantendo a produtividade.
+
+**Resolução de Problemas:** Habilidade de identificar obstáculos e encontrar soluções criativas e eficazes.
+
+**Proatividade:** Ação antecipada para resolver problemas e garantir o fluxo contínuo do trabalho.
