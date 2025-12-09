@@ -3,7 +3,7 @@
 ## Introdução 📰
 
 - Me chamo Raul Neto e estou me formando em Banco de Dados.
-- Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
+- Venho da área de Educação Física, cursei por dois anos e meio, mas acabei abandonando o curso devido à pandemia.
 - Sou ex-militar e servi por seis anos na Força Aérea Brasileira (CTA-SJC).
 - Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
 - Além das apresentações realizadas ao longo da faculdade como trabalhos, demonstrações de APIs e Feiras de Soluções, também ministrei treinamentos na empresa em que atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
@@ -20,7 +20,7 @@
 * Python
 * Java (Spring Boot)
 * JavaScript
-* HTML5 & CSS3
+* HTML5 e CSS3
 * Vue.js 3
 * SQL
 * Modelagem de Dados
@@ -40,11 +40,11 @@ O principal desafio do projeto era substituir o processo manual de avaliações 
 
 * Dificuldade na consolidação das informações, devido ao uso de planilhas desconectadas.
 
-* Falta de padronização nos critérios de avaliação
+* Falta de padronização nos critérios de avaliação.
 
-* Processo lento e burocrático
+* Processo lento e burocrático.
 
-* Visualização limitada e pouco intuitiva dos resultados
+* Visualização limitada e pouco intuitiva dos resultados.
 
 ## Solução Entregue 🚀
 
@@ -82,7 +82,7 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 #### Contribuições Pessoais ⚙️
 * Durante o projeto, atuei como membro do time de desenvolvimento, com foco na interface do usuário e nas funcionalidades relacionadas à avaliação 360°.
   * Interface de Usuário
-    > Com esse primeiro contato com desenvolvimento de aplicações desktop, atuei na criação de telas intuitivas e focadas na experiência do usuário, utilizando a biblioteca CustomTkinter, em Python. Começamos com os protótipos usando a biblioteca padrão Tkinter, após pesquisas mais aprofundadas, optamos por uma alternativa mais moderna e personalizável. Embora o CustomTkinter ofereça uma interface mais elegante e seja de fácil utilização, enfrentei desafios relacionados à falta de responsividade, uma vez que os elementos da interface são definidos em pixels, o que limitou a adaptação para diferentes resoluções de tela.
+    > Com esse primeiro contato com desenvolvimento de aplicações desktop, atuei na criação de telas intuitivas e focadas na experiência do usuário, utilizando a biblioteca CustomTkinter, em Python. Começamos com os protótipos usando a biblioteca padrão Tkinter. Após pesquisas mais aprofundadas, optamos por uma alternativa mais moderna e personalizável. Embora o CustomTkinter ofereça uma interface mais elegante e seja de fácil utilização, enfrentei desafios relacionados à falta de responsividade, uma vez que os elementos da interface são definidos em pixels, o que limitou a adaptação para diferentes resoluções de tela.
     ![image](https://github.com/user-attachments/assets/3a736311-7d8c-428f-a5b5-1ab50439ff8c)
 
   * Desenvolvimento dos painéis de gerenciamento de usuário
@@ -91,7 +91,7 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 ### Hard Skills 💡
 **Python** – Desenvolvi a aplicação desktop com essa linguagem, implementando tanto a lógica quanto a interface visual, além da integração com o banco de dados.
 
-**JSON** – Utilizado como banco de dados não relacional, simulando a persistência dos dados de forma simples e eficiente.
+**JSON** – Utilizado como armazenamento local de dados, simulando um banco não relacional.
 
 **VS Code** – Ferramenta principal de desenvolvimento, com alto nível de domínio na customização do ambiente e utilização de extensões que otimizam a produtividade.
 
@@ -108,7 +108,7 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 
 **Trabalho em equipe** – Colaborei diretamente com os demais desenvolvedores nas funcionalidades de autenticação, avaliação e gestão de usuários. Compartilhei ideias, dividi responsabilidades e solicitei apoio quando necessário, contribuindo para um desenvolvimento colaborativo.
 
-**Comunicação** – Mantive um diálogo constante com os colegas para esclarecer dúvidas técnicas, alinhar decisões de implementação e garantir a integração fluida entre as partes do sistema. Essa troca foi fundamental, especialmente na fase de testes e ajustes finais.
+**Comunicação** – Mantive um diálogo constante com os colegas, para esclarecer dúvidas técnicas, alinhar decisões de implementação e garantir a integração fluida entre as partes do sistema. Essa troca foi fundamental, especialmente na fase de testes e ajustes finais.
 
 **Adaptabilidade** – Durante as sprints, precisei reestruturar rapidamente o código de cálculo das avaliações após mudanças nos critérios definidos pelo cliente interno. Adaptei a lógica para atender aos novos requisitos, preservando a estabilidade do sistema.
 
