@@ -4,7 +4,7 @@
 
 - Me chamo Raul Neto e estou me formando em Banco de Dados.
 - Venho da área de Educação Física, cursei por dois anos e meio, mas acabei abandonando o curso devido à pandemia.
-- Sou ex-militar e servi por seis anos na Força Aérea Brasileira (CTA-SJC).
+- Sou ex-militar e servi por seis anos na Força Aérea Brasileira (DCTA-SJC).
 - Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
 - Além das apresentações realizadas ao longo da faculdade como trabalhos, demonstrações de APIs e Feiras de Soluções, também ministrei treinamentos na empresa em que atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 
