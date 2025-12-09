@@ -202,12 +202,12 @@ O projeto foi desenvolvido em parceria com a Dom Rock, empresa que utiliza uma a
 
 ## Problema ❗
 
-O processo de configuração das fontes de dados é manual, demandando tempo significativo e suporte de especialistas. Essa necessidade de profissionais qualificados limita a agilidade na implantação da solução e aumenta a probabilidade de falhas na preparação dos dados, afetando a eficiência e a precisão das etapas posteriores do pipeline.
+O processo de configuração das fontes de dados era manual, exigindo tempo significativo e suporte constante de especialistas. Essa necessidade de profissionais qualificados limita a agilidade na implantação da solução e aumenta a probabilidade de falhas na preparação dos dados, afetando a eficiência e a precisão das etapas posteriores do pipeline.
 
 ## Solução Entregue 🚀
 
 Para mitigar essas limitações, foi desenvolvida uma interface intuitiva que automatiza a configuração das fontes de dados. A solução incluiu módulos para cadastro de clientes, soluções e usuários, além de uma interface para upload de arquivos CSV ou Excel com visualização da estrutura dos dados.
-Foi criado também um dashboard administrativo com indicadores quantitativos das configurações realizadas. Adicionalmente, a ferramenta passou a contar com recursos de mapeamento de campos-chave, definição de regras de negócio, autenticação e auditoria, assegurando rastreabilidade. Essa automação resultou em maior agilidade nas implantações e menor dependência de profissionais técnicos.
+Também foi desenvolvido um dashboard administrativo com indicadores quantitativos das configurações realizadas. Adicionalmente, a ferramenta passou a contar com recursos de mapeamento de campos-chave, definição de regras de negócio, autenticação e auditoria, assegurando rastreabilidade. Essa automação resultou em maior agilidade nas implantações e menor dependência de profissionais técnicos.
 
 Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
 
@@ -257,7 +257,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
 
 **HTML5, CSS3 e CSS modularizado** – Desenvolvi interfaces responsivas e reutilizáveis, aplicando refatorações e centralização de estilos para otimizar o front-end.
 
-**JavaScript, Vue.js 3 + TypeScript** – Criei componentes reutilizáveis e views completas, consumindo APIs com axios e implementando funcionalidades dinâmicas.
+**JavaScript + TypeScript** – Criei componentes reutilizáveis e views completas, consumindo APIs com axios e implementando funcionalidades dinâmicas.
 
 **Chart.js** – Renderizei gráficos interativos para dashboards, organizando visualmente os dados do sistema.
 
@@ -273,7 +273,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
 
 ### Soft Skills 🧠
 
-**Comunicação**– Essencial para o alinhamento de expectativas da equipe em reuniões de planejamento e revisões de sprint, assegurando clareza nos objetivos e coerência nas entregas do projeto.
+**Comunicação** – Essencial para o alinhamento de expectativas da equipe em reuniões de planejamento e revisões de sprint, assegurando clareza nos objetivos e coerência nas entregas do projeto.
 
 **Trabalho em equipe** – Colaborei ativamente no desenvolvimento do front-end e na criação de protótipos visuais, atuando em conjunto com os colegas e fortalecendo um ambiente de aprendizado e troca constante.
 
@@ -293,7 +293,7 @@ Considerando o grande volume de dados gerados por dispositivos IoT, especialment
 
 ## Solução Entregue 🚀
 
-Uma solução capaz de registrar e consultar dados de geolocalização de dispositivos, ativos e outros objetos em um banco de dados relacional que fosse escalável e com alta disponibilidade, atendendo às demandas de performance e confiabilidade do sistema.
+Foi desenvolvida uma solução capaz de registrar e consultar dados de geolocalização de dispositivos, ativos e outros objetos em um banco de dados relacional que fosse escalável e com alta disponibilidade, atendendo às demandas de performance e confiabilidade do sistema.
 
 Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
@@ -319,7 +319,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 **VS Code** (Visual Studio Code) – Editor de código-fonte leve e poderoso, com suporte a várias linguagens e extensões.
 
-**CSS (Editor de Código)** – Representa editores de código genéricos ou o uso direto de HTML/CSS para desenvolvimento web.
+**CSS** – Representa editores de código genéricos ou o uso direto de HTML/CSS para desenvolvimento web.
 
 **TypeScript** – Superset do JavaScript que adiciona tipagem estática, melhorando a escalabilidade e manutenção de grandes aplicações.
 
@@ -329,14 +329,14 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 #### Contribuições Pessoais ⚙️
 
-* Durante o projeto atuei como Front-End e Product Owner. Fui responsável pela padronização de estilos no front-end, estruturação das telas, responsividade e desempenhei o papel de PO, onde eu fazia o contato com o cliente e repassava as necessidades do mesmo ao meu grupo.
-  * Além do contato com o cliente, durante o desenvolvimento como Dev, fiquei responsavél pelo visual do mapa, Layout, Cores, Tags, NaveBar...
+* Durante o projeto atuei como Front-End e Product Owner. Fui responsável pela padronização de estilos no front-end, estruturação das telas, responsividade e desempenhei o papel de PO, onde eu realizava o contato com o cliente e repassava as necessidades dele para o grupo.
+  * Além do contato com o cliente, durante o desenvolvimento como Dev, fiquei responsável pelo visual do mapa, layout, cores, tags e navbar.
     >![image](https://github.com/user-attachments/assets/939fd9b8-59f9-496b-9065-4c9ca1bb4166)
 
 ### Hard Skills 💡
 **Prototipagem e UI/UX (Figma)** Criação e validação de protótipos de interfaces, com foco na experiência do usuário e na tradução de requisitos funcionais em soluções visuais eficientes.
 
-**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript)** Construção de interfaces dinâmicas e responsivas com foco em escalabilidade, sem uso de frameworks visuais, aplicando boas práticas de componentização e reaproveitamento de código.
+**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript)** Construção de interfaces dinâmicas e responsivas com foco em escalabilidade, sem uso de frameworks de estilização (como Bootstrap ou Tailwind).
 
 **Controle de Versão e Colaboração (Git, GitHub)** Versionamento de código com uso eficiente de branches, pull requests e resolução de conflitos, garantindo um fluxo de trabalho limpo e colaborativo com a equipe.
 
@@ -346,11 +346,11 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 ### Soft Skills 🧠
 
-**Liderança e Visão de Produto** Como PO, conduzi o levantamento de requisitos, priorizei funcionalidades com foco na entrega de valor e mantive o alinhamento entre a equipe técnica e os objetivos do cliente.
+**Liderança e Visão de Produto** Como PO, conduzi o levantamento de requisitos, priorizei funcionalidades com foco na entrega de valor e mantive o alinhamento contínuo entre a equipe técnica e os objetivos do cliente.
 
 **Comunicação Clara e Objetiva** Participei ativamente de reuniões de planejamento e revisão de sprint, promovendo o alinhamento entre todos os envolvidos e garantindo que as expectativas fossem bem definidas.
 
-**Trabalho em Equipe** Colaborei com colegas no desenvolvimento front-end e na prototipação visual, solicitando ajuda quando necessário e contribuindo para decisões técnicas em grupo.
+**Trabalho em Equipe** Colaborei com colegas no desenvolvimento front-end e na prototipação visual, buscando apoio técnico quando necessário e contribuindo para decisões técnicas em grupo.
 
 **Organização e Gestão de Tempo** Conciliei prazos de entrega do projeto com as demandas acadêmicas, utilizando organização e planejamento para cumprir com eficiência os cronogramas estabelecidos.
 
