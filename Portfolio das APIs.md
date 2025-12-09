@@ -6,7 +6,7 @@
 - Venho da área de Educação Física, onde cursei dois anos e meio, mas acabei abandonando o curso devido à pandemia.
 - Sou ex-militar e servi por seis anos na Força Aérea Brasileira (CTA-SJC).
 - Atualmente, trabalho como Analista de Dados na BAYER S.A. há quase dois anos.
-- Além das apresentações realizadas ao longo da faculdade como trabalhos, demonstrações de APIs e Feiras de Soluções, também ministrei treinamentos na empresa onde atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
+- Além das apresentações realizadas ao longo da faculdade como trabalhos, demonstrações de APIs e Feiras de Soluções, também ministrei treinamentos na empresa em que atuo, abordando temas como PowerApps (nível básico) e Python (nível básico).
 
 ![image](https://github.com/user-attachments/assets/f3531c75-5922-46bd-acb3-7960daad4ede)
 
@@ -18,7 +18,7 @@
 
 ## Meus Principais Conhecimentos 💻
 * Python
-* Java(Spring Boot)
+* Java (Spring Boot)
 * JavaScript
 * HTML5 & CSS3
 * Vue.js 3
@@ -33,13 +33,12 @@
 ## Empresa Parceira 🤝
 
 Este projeto foi desenvolvido na Fatec como parte de um trabalho acadêmico do primeiro semestre, com o professor Lucas Nadalete atuando como cliente interno. A proposta consistia na criação de um sistema de avaliação 360°, voltado para uso em contextos corporativos ou educacionais, permitindo avaliações em múltiplas direções — como autoavaliação, avaliação entre pares, por superiores e subordinados.
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
 ## Problema ❗
 
 O principal desafio do projeto era substituir o processo manual de avaliações de desempenho, que apresentava diversas limitações, tais como:
 
-* Dificuldade na consolidação das informações, devido ao uso de planilhas desconectadas
+* Dificuldade na consolidação das informações, devido ao uso de planilhas desconectadas.
 
 * Falta de padronização nos critérios de avaliação
 
@@ -51,7 +50,7 @@ O principal desafio do projeto era substituir o processo manual de avaliações 
 
 Como solução para os desafios identificados, foi desenvolvido um sistema desktop completo utilizando Python, com as seguintes funcionalidades:
 
-* Interface intuitiva construída com TKinter
+* Interface intuitiva construída com Tkinter
 
 * Visualização gráfica dos resultados por meio do Matplotlib
 
