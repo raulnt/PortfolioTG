@@ -359,13 +359,13 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 ### Em 2025-1 Vision 👁️
 
 ## Empresa Parceira 🤝
-Youtan, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. 
+A Youtan, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. 
 
 ## Problema❗
-Apesar do Taiga ser uma plataforma eficaz para gestão ágil de projetos, ele possui limitações na visualização clara e centralizada de indicadores estratégicos e operacionais. A ausência de dashboards visuais e customizáveis dificulta a análise rápida do progresso, dos gargalos e da performance da equipe, prejudicando a transparência, a tomada de decisão e a comunicação com stakeholders.
+Apesar do Taiga ser uma plataforma eficaz para gestão ágil de projetos, ele apresenta limitações na visualização clara, centralizada e personalizável de indicadores estratégicos e operacionais. A ausência de dashboards visuais e customizáveis dificulta a análise rápida do progresso, dos gargalos e da performance da equipe, isso compromete tanto a transparência quanto a tomada de decisão.
 
 ## Solução Entregue 🚀
-Criar uma plataforma web que permitirá os usuários acompanharem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.
+Desenvolver uma plataforma web capaz de exibir visualmente o progresso das tarefas por meio de indicadores como, tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.
 
 Repositório [GIT](https://github.com/new-ge/VISION)
 
@@ -401,7 +401,7 @@ Repositório [GIT](https://github.com/new-ge/VISION)
 
 **Prototipagem e UI/UX (Figma):** Criação de protótipos interativos e wireframes, com foco na usabilidade e no design visual, para garantir que as interfaces atendam aos requisitos do usuário e do projeto.
 
-**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript):** Desenvolvimento de interfaces web dinâmicas e responsivas, utilizando boas práticas de componentização e reuso de código, assegurando escalabilidade e manutenção do projeto.
+**Front-end (HTML5, CSS3, JavaScript, Vue.js, TypeScript):** Desenvolvimento de interfaces dinâmicas, responsivas e componentizadas.
 
 **Controle de Versão e Colaboração (Git, GitHub):** Gerenciamento de código-fonte com Git, utilizando branches, commits e pull requests para garantir um fluxo de trabalho ágil e colaborativo, com foco em versões e integração contínua.
 
@@ -427,11 +427,11 @@ Repositório [GIT](https://github.com/new-ge/VISION)
 
 ## Empresa Parceira 🤝
 
-O projeto foi desenvolvido em colaboração com a empresa Pro4Tech, especializada em tecnologia e transformação digital. A Pro4Tech atua no desenvolvimento de sistemas, automação de processos (RPA) e em soluções inovadoras voltadas à otimização das operações empresariais. Essa parceria proporcionou suporte técnico e alinhamento estratégico essenciais para o avanço do projeto.
+O projeto foi desenvolvido em colaboração com a empresa Pro4Tech, especializada em tecnologia e transformação digital. A Pro4Tech atua no desenvolvimento de sistemas, automação de processos (RPA) e em soluções inovadoras voltadas à otimização das operações empresariais. Essa parceria garantiu suporte técnico e alinhamento estratégico essenciais para a evolução do projeto.
 
 ## Problema❗
 
-Atualmente, os usuários utilizam um sistema de chamados para solicitar suporte e acompanhar atendimentos. No entanto, alguns aspectos do processo ainda apresentam desafios. A consulta a chamados antigos nem sempre é intuitiva, o que dificulta o acesso rápido ao histórico. Além disso, há limitações na geração de insights gerenciais e operacionais, reduzindo a visibilidade sobre padrões e oportunidades de melhoria. Certos fluxos também poderiam ser mais eficientes, otimizando o tempo das equipes. Por fim, alguns pontos ainda precisam ser adequados às diretrizes da LGPD para garantir maior segurança e conformidade no tratamento dos dados.
+Atualmente, os usuários utilizam um sistema de chamados para solicitar suporte e acompanhar atendimentos. No entanto, alguns aspectos do processo ainda apresentam desafios. A consulta ao histórico nem sempre é intuitiva, dificultando o acesso rápido a chamados antigos. Além disso, há limitações na geração de insights gerenciais e operacionais, reduzindo a visibilidade sobre padrões e oportunidades de melhoria. Alguns fluxos também poderiam ser mais eficientes para otimizar o tempo das equipes. Por fim, certos pontos do sistema ainda exigiam adequações às diretrizes da LGPD.
 
 ## Solução Entregue 🚀
 
@@ -460,10 +460,10 @@ A solução consiste em uma plataforma inteligente de gestão de suporte, desenv
 #### Contribuições Pessoais ⚙️
 
 No projeto, atuei como desenvolvedor e contribuí diretamente em diversas etapas do processo. 
-> Participei da criação dos protótipos de interface, definindo cores, componentes e a identidade visual do sistema.
+> Desenvolvi protótipos de interface no Figma, definindo paleta de cores, componentes e identidade visual.
   <img width="1130" height="582" alt="image" src="https://github.com/user-attachments/assets/02a5bfe6-b7ba-4156-99d0-9a1cad1f2446" />
 
-> No backend, contribuí com a implementação dos endpoints e a estruturação dos routers, garantindo comunicação eficiente entre as camadas da aplicação.
+> No backend, contribuí na implementação de endpoints e estruturação dos routers, garantindo comunicação eficiente entre as camadas da aplicação.
   <img width="1306" height="686" alt="image" src="https://github.com/user-attachments/assets/c14d2a94-4508-4a88-a5aa-0b2faa739613" />
 
 > Minha principal atuação foi no frontend, onde fui responsável por padronizar elementos em HTML e CSS, aplicando o framework Naive UI de forma responsiva para garantir uma experiência visual consistente. Além disso, implementei a estrutura em Vue e JavaScript, adicionando interatividade, dinamismo e comportamento aos componentes da interface. Essas contribuições foram fundamentais para tornar a aplicação mais funcional, intuitiva e agradável ao usuário.
@@ -475,7 +475,7 @@ No projeto, atuei como desenvolvedor e contribuí diretamente em diversas etapas
 
 **Prototipagem (Figma):** Criação de protótipos interativos e wireframes, com foco na usabilidade e no design visual, para garantir que as interfaces atendam aos requisitos do usuário e do projeto.
 
-**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js,):** Desenvolvimento de interfaces web dinâmicas e responsivas, utilizando boas práticas de componentização e reuso de código, assegurando escalabilidade e manutenção do projeto.
+**Desenvolvimento Front-end (HTML5, CSS3, JavaScript, Vue.js):** Desenvolvimento de interfaces web dinâmicas e responsivas, utilizando boas práticas de componentização e reuso de código, assegurando escalabilidade e manutenção do projeto.
 
 **Controle de Versão e Colaboração (Git, GitHub):** Gerenciamento de código-fonte com Git, utilizando branches, commits e pull requests para garantir um fluxo de trabalho ágil e colaborativo, com foco em versões e integração contínua.
 
