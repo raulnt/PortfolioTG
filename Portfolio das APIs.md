@@ -423,13 +423,9 @@ A solução consiste em uma plataforma inteligente de gestão de suporte, desenv
 
 **Figma** - Ferramenta de design colaborativo usada para criar protótipos, telas e fluxos de interface. Sua capacidade de edição em tempo real e recursos de UX/UI ajudaram a definir uma experiência visual consistente e moderna.
 
-**Pandas** - Biblioteca Python especializada em manipulação, limpeza e análise de dados. Foi utilizada para estruturar tabelas, processar informações e preparar conjuntos de dados para análises e geração de insights.
+**Postman** - Ferramenta para testar APIs.
 
-**FastAPI** - Framework Python moderno e de alto desempenho para criação de APIs REST. Ele oferece validação automática, documentação integrada e otimização baseada em assincronismo, tornando o backend rápido, seguro e escalável.
-
-**Prophet** - Biblioteca de previsão de séries temporais desenvolvida pelo Facebook. Facilitou a geração de previsões confiáveis, lidando bem com sazonalidade e tendências, com mínima preparação de dados.
-
-**Flair** - Biblioteca de processamento de linguagem natural (NLP) focada em análises de texto. É utilizada para tarefas como classificação, detecção de sentimentos e modelagem de entidades, trazendo precisão com modelos pré-treinados e fáceis de integrar.
+**Flair, Prophet e Sci-Kit** - ML's usados para o projeto para prever sentimento, faq automatizado e previsões de demanda.
 
 #### Contribuições Pessoais ⚙️
 
