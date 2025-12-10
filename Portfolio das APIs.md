@@ -28,7 +28,7 @@
 
 ## Meus Projetos 🖥️
 
-### Em 2023-1 - Sistema de Avaliação 360° 👁️‍🗨️
+## Em 2023-1 - Sistema de Avaliação 360° 👁️‍🗨️
 
 ## Empresa Parceira 🤝
 
@@ -112,89 +112,63 @@ Repositório [GIT](https://github.com/santosjhony12/Sistema_Avaliacao360_1Semest
 
 **Adaptabilidade** – Durante as sprints, precisei reestruturar rapidamente o código de cálculo das avaliações após mudanças nos critérios definidos pelo cliente interno. Adaptei a lógica para atender aos novos requisitos, preservando a estabilidade do sistema.
 
-
-### Em 2023-2 TGSync 🗃️
+## Em 2023-2 TGSync 🗃️
 
 ## Empresa Parceira 🤝
 
-O projeto foi desenvolvido em colaboração com a Dom Rock, empresa especializada em uma arquitetura de processamento de dados em pipeline. Essa estrutura permite orquestrar dados e aplicar algoritmos de inteligência artificial ou modelos matemáticos conforme as necessidades de negócio dos clientes. A plataforma é amplamente utilizada em diversos setores para tratar grandes volumes de dados, gerando insights automatizados que facilitam a tomada de decisões.
+O projeto foi desenvolvido na Fatec como trabalho acadêmico do segundo semestre, tendo como cliente o Professor Mineda. Trabalhamos com foco na otimização do processo de avaliação dos Trabalhos de Conclusão de Curso (TCC) dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas.
 
 ## Problema ❗
 
-O principal obstáculo era o processo manual de configuração das fontes de dados — uma etapa essencial para o funcionamento da plataforma. Esse processo demandava tempo considerável e a atuação de profissionais altamente especializados, o que comprometia a agilidade nas implantações e aumentava a dependência de conhecimento técnico para garantir a correta preparação dos dados.
+O processo de avaliação dos Trabalhos de Conclusão de Curso (TCCs) é realizado de forma manual, o que gera diversas limitações e ineficiências. A execução manual torna o processo suscetível a erros e dificulta a consolidação dos dados de avaliação. Além disso, a geração de relatórios consolidados é trabalhosa e demorada, aumentando o tempo necessário para reunir informações e tomar decisões. A ausência de integração entre entregas, feedbacks e notas compromete a transparência, a agilidade e a padronização do processo avaliativo.
 
 ## Solução Entregue 🚀
 
-Para superar esse desafio, a equipe desenvolveu uma interface intuitiva que automatiza a configuração das fontes de dados. A solução incluiu:
-
-* Interfaces para cadastro de clientes, soluções e usuários;
-
-* Upload de arquivos CSV ou Excel com visualização da estrutura de dados;
-
-* Dashboard administrativo com visões quantitativas sobre os dados configurados;
-
-* Funcionalidades para mapeamento de campos-chave e aplicação de regras de negócio;
-
-* Sistema de autenticação e auditoria para garantir rastreabilidade.
+* Upload de arquivos CSV com dados de alunos.
+* Validação automática dos dados do orientador.
+* Registro de notas e feedbacks por parte dos professores.
+* Cadastro e acompanhamento de entregas.
+* Geração automatizada de relatórios diversos.
 
 Repositório [GIT](https://github.com/TechHorizonBR/API_2_Sem)
 
 #### Tecnologias Utilizadas 🧰
-**Java 17** Versão estável da linguagem Java com suporte de longo prazo (LTS), trazendo melhorias de desempenho, novos recursos e maior eficiência no desenvolvimento de aplicações robustas.
 
-**Spring Boot** Framework que agiliza o desenvolvimento de aplicações Java, fornecendo configurações automáticas e um ecossistema completo para criação de APIs e microsserviços.
-
-**Spring Security** Módulo do Spring voltado para segurança, oferecendo recursos integrados de autenticação, autorização e proteção contra ameaças comuns em aplicações web.
-
-**Hibernate** Framework ORM (Object-Relational Mapping) que facilita a comunicação entre aplicações Java e bancos de dados relacionais, automatizando a persistência de dados.
-
-**HTML (HyperText Markup Language)** Linguagem de marcação responsável pela estruturação de páginas web, definindo o conteúdo e a hierarquia dos elementos visuais.
-
-**CSS (Cascading Style Sheets)** Linguagem de estilo que complementa o HTML, permitindo o controle visual das páginas, como cores, fontes, espaçamentos e layout responsivo.
-
-**JavaScript** Linguagem de programação essencial para a criação de interatividade em páginas web, possibilitando ações dinâmicas e atualizações em tempo real.
-
-**MySQL** Sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido por sua performance, confiabilidade e estrutura baseada em SQL.
-
-**Discord** Plataforma de comunicação instantânea com suporte a texto, voz e vídeo, ideal para colaboração em equipe e criação de comunidades organizadas por servidores.
-
-**Jira** Ferramenta de gerenciamento de projetos e tarefas, muito utilizada em times ágeis. Suporta metodologias como Scrum e Kanban, com funcionalidades para planejamento, rastreamento e relatórios.
-
-**BRModelo** Aplicativo gráfico utilizado na modelagem de bancos de dados, permitindo a criação de diagramas entidade-relacionamento (ER) de forma visual e intuitiva.
+**Java** Linguagem de programação principal usada no backend da aplicação, oferecendo segurança e escalabilidade.
+**JavaFX** Utilizada para o desenvolvimento da interface gráfica do sistema desktop.
+**MySQL** Banco de dados relacional utilizado para armazenar os dados dos alunos, orientadores e avaliações.
+**IntelliJ** IDE utilizada para o desenvolvimento da aplicação com foco em produtividade e integração.
+**Git/GitHub** Ferramentas para versionamento de código e colaboração em equipe.
+**Figma** Utilizado na prototipação e design das interfaces da aplicação.
+**BRmodelo** Utilizado para modelagem do banco de dados relacional.
+**Trello** Para o gerenciamento ágil do projeto e acompanhamento das tarefas.
 
 #### Contribuições Pessoais ⚙️
-* Durante o projeto atuei como desenvolvedor front-end, sendo responsável pela padronização de estilos no front-end, estruturação das telas e responsividade.
-  * Desenvolvimento do Front-End
-    > Adotando um padrão visual consistente para as interfaces do sistema. No entanto, enfrentei alguns desafios devido à ausência de um framework de estilização, o que exigiu a replicação de diversos trechos de código em múltiplas telas, gerando retrabalho. Com o tempo, por meio de refatorações e ajustes, consegui centralizar os estilos em arquivos CSS reutilizáveis, o que reduziu significativamente a duplicação de código e tornou o desenvolvimento mais eficiente e organizado.
-  ![image](https://github.com/user-attachments/assets/eb8b1d97-7594-42e8-8f8d-4030911bb6a4)
+
+* Atuei na criação dos relatórios que possibilitam o acompanhamento das entregas dos alunos, a avaliação da aptidão para defesa e a emissão de certificados. Esses relatórios foram projetados para fornecer informações claras e objetivas, facilitando o monitoramento do progresso dos alunos e a gestão das atividades acadêmicas.
+<img width="1126" height="789" alt="image" src="https://github.com/user-attachments/assets/272882e2-fc7e-43af-b243-1d0ac285b5ea" />
 
 ### Hard Skills 💡
-**HTML5, CSS3, JavaScript** – Desenvolvi o front-end com interfaces responsivas e dinâmicas, atuando com autonomia na implementação.
 
-**Figma** – Utilizei para prototipagem de interfaces e colaboração no design da solução, com domínio das funcionalidades da ferramenta.
+**JavaFX ** - Construí telas para visualização dos alunos, avaliação e emissão de relatórios. O desafio foi organizar a interface para facilitar o uso pelos professores, que não necessariamente têm familiaridade com sistemas.
 
-**Java (Spring Boot)** – Desenvolvi aplicações back-end, configurando endpoints e integrações de forma autônoma.
+**Git/GitHub** - Realizei versionamento de código e trabalho colaborativo, com domínio no uso de branches, pull requests e resolução de conflitos.
 
-**MySQL** – Modelei e gerenciei dados relacionais, com pleno domínio na criação de queries e ajustes no banco.
+**Figma** - Interpretamos protótipos simples para organizar o fluxo de telas e campos. Ajustes foram necessários conforme surgiam novas necessidades do professor e da coordenação.
 
-**Postman** – Testei e validei APIs, com conhecimento para criação de coleções de testes automatizados.
+**IntelliJ** - Usamos como IDE principal, com foco em produtividade, integração com Git e execução dos testes.
 
-**Git/GitHub** – Realizei versionamento de código e trabalho colaborativo, com domínio no uso de branches, pull requests e resolução de conflitos.
-
-**IntelliJ IDEA** – Ambiente principal de desenvolvimento, com proficiência na personalização do IDE e uso de plugins.
-
-**Jira** – Organizei e acompanhei tarefas conforme a metodologia Scrum, promovendo eficiência no gerenciamento do projeto.
+**Trello** - Acompanhamos as tarefas por sprints. Em algumas ocasiões, acumulamos demandas não previstas, o que exigiu reorganização do backlog.
 
 ### Soft Skills 🧠
-**Comunicação** – Fundamental para o alinhamento de expectativas da equipe durante reuniões de planejamento e revisões de sprint, contribuindo para a clareza nos objetivos do projeto.
 
-**Trabalho em equipe** – Atuei de forma colaborativa no desenvolvimento do front-end, especialmente na criação dos protótipos visuais, contando com o apoio dos colegas e promovendo um ambiente de troca constante.
+**Comunicação** - Fundamental para o alinhamento de expectativas da equipe durante reuniões de planejamento e revisões de sprint, contribuindo para a clareza nos objetivos do projeto.
 
-**Organização** – Gerenciei meu tempo de forma eficiente para conciliar os prazos das sprints com as demandas acadêmicas, especialmente em períodos de provas, garantindo a entrega conforme o planejado.
+**Trabalho em equipe** - Atuei de forma colaborativa no desenvolvimento do front-end, especialmente na criação dos protótipos visuais, contando com o apoio dos colegas e promovendo um ambiente de troca constante.
 
-**Adaptabilidade** – Adaptei a implementação das funcionalidades com agilidade diante de feedbacks dos clientes e mudanças nos requisitos, mantendo a qualidade e o ritmo do desenvolvimento.
+**Organização** - Gerenciei meu tempo de forma eficiente para conciliar os prazos das sprints com as demandas acadêmicas, especialmente em períodos de provas, garantindo a entrega conforme o planejado.
 
-### Em 2024-1 LocalTracker 📍
+## Em 2024-1 NextSchema
 
 ## Empresa Parceira 🤝
 
@@ -281,7 +255,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_3SEM)
 
 **Adaptabilidade** – Ajustei implementações de forma ágil a partir de feedbacks e mudanças de requisitos, mantendo a qualidade, a coerência técnica e o ritmo do desenvolvimento.
 
-### Em 2024-2 NextSchema 📍
+## Em 2024-2 LocalTracker📍
 
 ## Empresa Parceira 🤝
 
@@ -356,7 +330,7 @@ Repositório [GIT](https://github.com/TechHorizonBR/API_4SEM)
 
 **Adaptabilidade e Resolução de Problemas** Adaptei implementações conforme mudanças nos requisitos, além de lidar com imprevistos e retrabalho com foco em entregar soluções funcionais.
 
-### Em 2025-1 Vision 👁️
+## Em 2025-1 Vision 👁️
 
 ## Empresa Parceira 🤝
 A Youtan, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. 
@@ -423,7 +397,7 @@ Repositório [GIT](https://github.com/new-ge/VISION)
 
 **Proatividade:** Ação antecipada para resolver problemas e garantir o fluxo contínuo do trabalho.
 
-### Em 2025-2 LuminIA 🔺
+## Em 2025-2 LuminIA 🔺
 
 ## Empresa Parceira 🤝
 
